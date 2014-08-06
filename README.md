@@ -1,5 +1,5 @@
-# Jelly Pancake Recipe
-This is the teacher's family recipe.  I guess we'll see how they're made.
+# Fish Cakes Recipe
+This is how you make fish cakes.
 
 ## Collaborators
 - @schnemi
